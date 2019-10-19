@@ -1,2 +1,5 @@
 [credential]
 	helper = osxkeychain
+[user]
+	name = Nick Gutierrez
+	email = nickg413@gmail.com
