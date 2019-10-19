@@ -97,3 +97,11 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias gs="git status"
+alias gcm="git checkout master"
+alias gcb="git checkout -b"
+alias gdv="git diff -v"
+alias gds="git diff --staged"
+alias gdm="git diff master"
+alias gpm="git pull origin master"
+
